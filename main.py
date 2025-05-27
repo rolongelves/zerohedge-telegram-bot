@@ -6,8 +6,8 @@ from googletrans import Translator
 import os
 
 rss_url = 'https://cms.zerohedge.com/fullrss2.xml'
-bot_token = os.getenv("BOT_TOKEN")
-chat_id = os.getenv("CHAT_ID")
+bot_token = os.getenv("7575556763:AAFhJ5C5WLgM0z6Uv9_wzXwbvJAwyjaW3Xc")
+chat_id = os.getenv("6258554266")
 
 translator = Translator()
 last_title = ""
